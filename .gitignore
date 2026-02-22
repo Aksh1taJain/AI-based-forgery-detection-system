@@ -1,0 +1,17 @@
+# Ignore model weights
+models/
+*.h5
+*.pth
+*.pt
+*.ckpt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# Dataset (if large)
+data/
