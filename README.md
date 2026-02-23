@@ -8,8 +8,8 @@
 
 ## Screenshots
 
-![Homepage](assets/homepage.png)
-![Result](assets/result.png)
+![Homepage](assets/assets/homepage.png)
+![Result](assets/assets/result.png)
 
 ##  Pretrained Models
 
