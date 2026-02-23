@@ -6,6 +6,11 @@
 - Web interface built using Flask / Streamlit
 - Real-time user image upload support
 
+## Screenshots
+
+![Homepage](assets/homepage.png)
+![Result](assets/result.png)
+
 ##  Pretrained Models
 
 Due to GitHub file size limitations, trained model weights are not included in this repository.
